@@ -1,43 +1,5 @@
 [
     {
-        "eventId": "5111976",
-        "description": null,
-        "cause": "M25 Anti-Clockwise Jct 2 exit slip road and fast link\nLane, slip road and link road closure for routine works, \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.423016,
-            "longitude": 0.23581792,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731107541172,
-        "startDate": 1731711600000,
-        "endDate": 1731733200000,
-        "periods": [
-            {
-                "start": 1731711600000,
-                "end": 1731733200000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5111974",
         "description": null,
         "cause": "M25 Anti-Clockwise Jct 2 exit slip road and fast link\nLane, slip road and link road closure for routine works, \nDiversion via National Highways roads",
@@ -77,6 +39,44 @@
             }
         ],
         "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5111976",
+        "description": null,
+        "cause": "M25 Anti-Clockwise Jct 2 exit slip road and fast link\nLane, slip road and link road closure for routine works, \nDiversion via National Highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.423016,
+            "longitude": 0.23581792,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731107541172,
+        "startDate": 1731711600000,
+        "endDate": 1731733200000,
+        "periods": [
+            {
+                "start": 1731711600000,
+                "end": 1731733200000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
         "additionalInfo": false
     },
     {
@@ -129,7 +129,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731503237211,
+        "lastUpdated": 1731576693889,
         "startDate": 1731576600000,
         "endDate": 1731600000000,
         "periods": [
