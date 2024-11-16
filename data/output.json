@@ -1,5 +1,51 @@
 [
     {
+        "eventId": "5125569",
+        "description": null,
+        "cause": "A282 northbound Dartford Crossing West Tunnel.\nTunnel closure for maintenance works.\nDiversion via National Highways network.",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.450573,
+            "longitude": 0.23843083,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731795202789,
+        "startDate": 1732399200000,
+        "endDate": 1732424400000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5113242",
         "description": null,
         "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
@@ -61,7 +107,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731190275453,
+        "lastUpdated": 1731794409798,
         "startDate": 1731794400000,
         "endDate": 1731819600000,
         "periods": [
@@ -228,48 +274,28 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5092910",
+        "eventId": "5125560",
         "description": null,
-        "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "cause": "",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
-        "isConfirmed": false,
+        "isConfirmed": true,
         "location": {
-            "latitude": 51.453384,
-            "longitude": 0.24048093,
+            "latitude": 51.452732,
+            "longitude": 0.24043182,
             "junctionUpstream": "",
             "junctionDownstream": ""
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731735047350,
-        "startDate": 1731967200000,
-        "endDate": 1732167000000,
+        "lastUpdated": 1731794760998,
+        "startDate": 1731794722534,
+        "endDate": 1731819600000,
         "periods": [
             {
-                "start": 1731535200000,
-                "end": 1731562200000
-            },
-            {
-                "start": 1731621600000,
-                "end": 1731648600000
-            },
-            {
-                "start": 1731711600000,
-                "end": 1731735000000
-            },
-            {
-                "start": 1731967200000,
-                "end": 1731994200000
-            },
-            {
-                "start": 1732053600000,
-                "end": 1732080600000
-            },
-            {
-                "start": 1732140000000,
-                "end": 1732167000000
+                "start": 1731794722534,
+                "end": 1731819600000
             }
         ],
         "laneClosures": [
@@ -332,6 +358,122 @@
             {
                 "start": 1732914000000,
                 "end": 1732946400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5092910",
+        "description": null,
+        "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.453384,
+            "longitude": 0.24048093,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731735047350,
+        "startDate": 1731967200000,
+        "endDate": 1732167000000,
+        "periods": [
+            {
+                "start": 1731535200000,
+                "end": 1731562200000
+            },
+            {
+                "start": 1731621600000,
+                "end": 1731648600000
+            },
+            {
+                "start": 1731711600000,
+                "end": 1731735000000
+            },
+            {
+                "start": 1731967200000,
+                "end": 1731994200000
+            },
+            {
+                "start": 1732053600000,
+                "end": 1732080600000
+            },
+            {
+                "start": 1732140000000,
+                "end": 1732167000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5092911",
+        "description": null,
+        "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731735058463,
+        "startDate": 1731967200000,
+        "endDate": 1732167000000,
+        "periods": [
+            {
+                "start": 1731535200000,
+                "end": 1731562200000
+            },
+            {
+                "start": 1731621600000,
+                "end": 1731648600000
+            },
+            {
+                "start": 1731711600000,
+                "end": 1731735000000
+            },
+            {
+                "start": 1731967200000,
+                "end": 1731994200000
+            },
+            {
+                "start": 1732053600000,
+                "end": 1732080600000
+            },
+            {
+                "start": 1732140000000,
+                "end": 1732167000000
             }
         ],
         "laneClosures": [
@@ -448,61 +590,41 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5092911",
+        "eventId": "5125558",
         "description": null,
-        "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "cause": "",
+        "severity": "LOWEST",
         "roadName": "M25",
         "isCompleted": false,
-        "isConfirmed": false,
+        "isConfirmed": true,
         "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
+            "latitude": 51.464855,
+            "longitude": 0.25755054,
             "junctionUpstream": "",
             "junctionDownstream": ""
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731735058463,
-        "startDate": 1731967200000,
-        "endDate": 1732167000000,
+        "lastUpdated": 1731794706299,
+        "startDate": 1731794652549,
+        "endDate": 1731819600000,
         "periods": [
             {
-                "start": 1731535200000,
-                "end": 1731562200000
-            },
-            {
-                "start": 1731621600000,
-                "end": 1731648600000
-            },
-            {
-                "start": 1731711600000,
-                "end": 1731735000000
-            },
-            {
-                "start": 1731967200000,
-                "end": 1731994200000
-            },
-            {
-                "start": 1732053600000,
-                "end": 1732080600000
-            },
-            {
-                "start": 1732140000000,
-                "end": 1732167000000
+                "start": 1731794652549,
+                "end": 1731819600000
             }
         ],
         "laneClosures": [
             {
                 "laneName": "Lane 1",
-                "status": "CLOSED"
+                "status": "UNKNOWN"
             },
             {
                 "laneName": "Lane 2",
-                "status": "CLOSED"
+                "status": "UNKNOWN"
             }
         ],
-        "fullClosure": true,
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
