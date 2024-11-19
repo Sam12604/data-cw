@@ -177,8 +177,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731967326746,
-        "startDate": 1731967200000,
+        "lastUpdated": 1731994269317,
+        "startDate": 1732053600000,
         "endDate": 1732167000000,
         "periods": [
             {
@@ -293,7 +293,7 @@
         "eventId": "5092910",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -305,8 +305,104 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731967246252,
-        "startDate": 1731967200000,
+        "lastUpdated": 1731994258872,
+        "startDate": 1732053600000,
+        "endDate": 1732167000000,
+        "periods": [
+            {
+                "start": 1731535200000,
+                "end": 1731562200000
+            },
+            {
+                "start": 1731621600000,
+                "end": 1731648600000
+            },
+            {
+                "start": 1731711600000,
+                "end": 1731735000000
+            },
+            {
+                "start": 1731967200000,
+                "end": 1731994200000
+            },
+            {
+                "start": 1732053600000,
+                "end": 1732080600000
+            },
+            {
+                "start": 1732140000000,
+                "end": 1732167000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5126353",
+        "description": null,
+        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J30|31"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731881471825,
+        "startDate": 1732485600000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5092911",
+        "description": null,
+        "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731994269226,
+        "startDate": 1732053600000,
         "endDate": 1732167000000,
         "periods": [
             {
@@ -410,102 +506,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5126353",
-        "description": null,
-        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731881471825,
-        "startDate": 1732485600000,
-        "endDate": 1732510800000,
-        "periods": [
-            {
-                "start": 1732485600000,
-                "end": 1732510800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5092911",
-        "description": null,
-        "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731967326449,
-        "startDate": 1731967200000,
-        "endDate": 1732167000000,
-        "periods": [
-            {
-                "start": 1731535200000,
-                "end": 1731562200000
-            },
-            {
-                "start": 1731621600000,
-                "end": 1731648600000
-            },
-            {
-                "start": 1731711600000,
-                "end": 1731735000000
-            },
-            {
-                "start": 1731967200000,
-                "end": 1731994200000
-            },
-            {
-                "start": 1732053600000,
-                "end": 1732080600000
-            },
-            {
-                "start": 1732140000000,
-                "end": 1732167000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5119684",
         "description": null,
         "cause": "A2 westbound Bean to Darenth\nlane closure for bridge works",
@@ -560,82 +560,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5115336",
-        "description": null,
-        "cause": "A282 Northbound Dartford Tunnel to M25 Jct 30\nLane closures and Exit slip road closure for Structure Inspections\nDiversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.47665,
-            "longitude": 0.26616442,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731981640663,
-        "startDate": 1731981600000,
-        "endDate": 1731992400000,
-        "periods": [
-            {
-                "start": 1731981600000,
-                "end": 1731992400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5115335",
-        "description": null,
-        "cause": "A282 Northbound Dartford Tunnel to M25 Jct 30\nLane closures and Exit slip road closure for Structure Inspections\nDiversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.4765,
-            "longitude": 0.26629207,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731981639933,
-        "startDate": 1731981600000,
-        "endDate": 1731992400000,
-        "periods": [
-            {
-                "start": 1731981600000,
-                "end": 1731992400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5108104",
         "description": null,
         "cause": "A282 Clockwise Jct 31 to Jct 1A\nLane closure for caballing works.",
@@ -676,52 +600,6 @@
             {
                 "laneName": "Lane 4",
                 "status": "CLOSED"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5115334",
-        "description": null,
-        "cause": "A282 Northbound Dartford Tunnel to M25 Jct 30\nLane closures and Exit slip road closure for Structure Inspections\nDiversion via National Highways roads",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.47933,
-            "longitude": 0.2663061,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731981639132,
-        "startDate": 1731981600000,
-        "endDate": 1731992400000,
-        "periods": [
-            {
-                "start": 1731981600000,
-                "end": 1731992400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "NORMAL"
             }
         ],
         "fullClosure": false,
@@ -798,52 +676,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5115333",
-        "description": null,
-        "cause": "A282 Northbound Dartford Tunnel to M25 Jct 30\nLane closures and Exit slip road closure for Structure Inspections\nDiversion via National Highways roads",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.4839,
-            "longitude": 0.2670315,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731981638413,
-        "startDate": 1731981600000,
-        "endDate": 1731992400000,
-        "periods": [
-            {
-                "start": 1731981600000,
-                "end": 1731992400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5122869",
         "description": null,
         "cause": "M25 anti-Clockwise Jct 31 to Jct 29\nMobile lane closure for structure inspections",
@@ -891,44 +723,6 @@
             }
         ],
         "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5115332",
-        "description": null,
-        "cause": "A282 Northbound Dartford Tunnel to M25 Jct 30\nLane closures and Exit slip road closure for Structure Inspections\nDiversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.490574,
-            "longitude": 0.26754454,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731981637725,
-        "startDate": 1731981600000,
-        "endDate": 1731992400000,
-        "periods": [
-            {
-                "start": 1731981600000,
-                "end": 1731992400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
         "additionalInfo": false
     }
 ]
