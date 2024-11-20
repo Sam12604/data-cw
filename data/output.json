@@ -521,14 +521,10 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1731528710268,
-        "startDate": 1732132800000,
+        "lastUpdated": 1732134600263,
+        "startDate": 1732219200000,
         "endDate": 1732255200000,
         "periods": [
-            {
-                "start": 1732132800000,
-                "end": 1732168800000
-            },
             {
                 "start": 1732219200000,
                 "end": 1732255200000
