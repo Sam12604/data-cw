@@ -107,7 +107,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1732224048356,
+        "lastUpdated": 1732226550001,
         "startDate": 1732226400000,
         "endDate": 1732946400000,
         "periods": [
@@ -165,7 +165,7 @@
         "eventId": "5122790",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -177,7 +177,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1732224056022,
+        "lastUpdated": 1732226548627,
         "startDate": 1732226400000,
         "endDate": 1732946400000,
         "periods": [
@@ -227,7 +227,7 @@
         "eventId": "5122791",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -239,7 +239,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1732224056066,
+        "lastUpdated": 1732226546865,
         "startDate": 1732226400000,
         "endDate": 1732946400000,
         "periods": [
@@ -321,6 +321,44 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5135526",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.460625,
+            "longitude": 0.25332153,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732226151074,
+        "startDate": 1732226044042,
+        "endDate": 1732253400000,
+        "periods": [
+            {
+                "start": 1732226044042,
+                "end": 1732253400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "UNKNOWN"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "UNKNOWN"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
