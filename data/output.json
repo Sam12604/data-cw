@@ -1,5 +1,427 @@
 [
     {
+        "eventId": "5136359",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "HIGH",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42664,
+            "longitude": 0.23716015,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278368069,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136364",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.425552,
+            "longitude": 0.23886907,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278413090,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136354",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "HIGH",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.425575,
+            "longitude": 0.23889178,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278259374,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136355",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "HIGH",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.425938,
+            "longitude": 0.23952821,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278292477,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136358",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "HIGH",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.427044,
+            "longitude": 0.23775522,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278301765,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136363",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.426075,
+            "longitude": 0.24004458,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278413032,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136362",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.429863,
+            "longitude": 0.23934609,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278391518,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136361",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43569,
+            "longitude": 0.23913746,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J3"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278379855,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5136353",
+        "description": null,
+        "cause": "A282 Clockwise Jct 1B to Jct 3\nLane and carriageway closure for Technology works and cyclic maintenance. \nDiversion via Local Authorities roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.44054,
+            "longitude": 0.23882878,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1732278250810,
+        "startDate": 1732399200000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732399200000,
+                "end": 1732424400000
+            },
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5126352",
         "description": null,
         "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
@@ -224,44 +646,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5126353",
-        "description": null,
-        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1731881471825,
-        "startDate": 1732485600000,
-        "endDate": 1732510800000,
-        "periods": [
-            {
-                "start": 1732485600000,
-                "end": 1732510800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5122791",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -308,6 +692,44 @@
             {
                 "start": 1732914000000,
                 "end": 1732946400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5126353",
+        "description": null,
+        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J30|31"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1731881471825,
+        "startDate": 1732485600000,
+        "endDate": 1732510800000,
+        "periods": [
+            {
+                "start": 1732485600000,
+                "end": 1732510800000
             }
         ],
         "laneClosures": [
