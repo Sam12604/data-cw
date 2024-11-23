@@ -1,6 +1,7 @@
 {
     "notification": [
         {
+            "ref": "001",
             "type": "notification-info",
             "content": "Scheduled website maintenance on November 23rd from 2 AM to 5 AM.",
             "start_time": 1732336800,
@@ -18,6 +19,7 @@
             ]
         },
         {
+            "ref": "001",
             "type": "notification-warning",
             "content": "Scheduled maintenance on November 23rd from 2 AM to 5 AM.",
             "start_time": 1732336800,
@@ -35,6 +37,7 @@
             ]
         },
         {
+            "ref": "001",
             "type": "notification-severe",
             "content": "Severe weather alert: Heavy winds expected today.",
             "start_time": 1732195200,
