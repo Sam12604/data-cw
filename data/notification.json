@@ -1,6 +1,23 @@
 {
     "notification": [
         {
+            "type": "notification-info",
+            "content": "Scheduled website maintenance on November 23rd from 2 AM to 5 AM.",
+            "start_time": 1732336800,
+            "end_time": 1832347600,
+            "added_on": 1732212000,
+            "display_times": [
+                {
+                    "start": 1732336800,
+                    "end": 1832340400
+                },
+                {
+                    "start": 1732345800,
+                    "end": 1832347600
+                }
+            ]
+        },
+        {
             "type": "notification-warning",
             "content": "Scheduled maintenance on November 23rd from 2 AM to 5 AM.",
             "start_time": 1732336800,
