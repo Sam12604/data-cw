@@ -107,8 +107,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733349691430,
-        "startDate": 1733349600000,
+        "lastUpdated": 1733376830063,
+        "startDate": 1733436000000,
         "endDate": 1734672600000,
         "periods": [
             {
@@ -193,7 +193,7 @@
         "eventId": "5141747",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -205,8 +205,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733349685682,
-        "startDate": 1733349600000,
+        "lastUpdated": 1733376855375,
+        "startDate": 1733436000000,
         "endDate": 1734672600000,
         "periods": [
             {
@@ -295,8 +295,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733349689557,
-        "startDate": 1733349600000,
+        "lastUpdated": 1733376838806,
+        "startDate": 1733436000000,
         "endDate": 1734672600000,
         "periods": [
             {
@@ -535,7 +535,7 @@
         "eventId": "5141748",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -547,8 +547,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733349687695,
-        "startDate": 1733349600000,
+        "lastUpdated": 1733376855261,
+        "startDate": 1733436000000,
         "endDate": 1734672600000,
         "periods": [
             {
