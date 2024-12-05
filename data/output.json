@@ -622,52 +622,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5158451",
-        "description": null,
-        "cause": "A282 Southbound Jct 1 to Jct 1A\nLane closure for urgent carriageway repairs.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45965,
-            "longitude": 0.25389966,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J1B|2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1733349720754,
-        "startDate": 1733349600000,
-        "endDate": 1733374800000,
-        "periods": [
-            {
-                "start": 1733349600000,
-                "end": 1733374800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5153860",
         "description": null,
         "cause": "A282 Northbound Jct 31 to Jct 30\ncarriageway closure for gully works. \nDiversion via Local Authorities roads",
