@@ -107,7 +107,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733463136479,
+        "lastUpdated": 1733518878741,
         "startDate": 1733518800000,
         "endDate": 1734672600000,
         "periods": [
@@ -193,7 +193,7 @@
         "eventId": "5141747",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -205,7 +205,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733463187696,
+        "lastUpdated": 1733518871106,
         "startDate": 1733518800000,
         "endDate": 1734672600000,
         "periods": [
@@ -295,7 +295,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733463145965,
+        "lastUpdated": 1733518877037,
         "startDate": 1733518800000,
         "endDate": 1734672600000,
         "periods": [
@@ -381,7 +381,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733463155129,
+        "lastUpdated": 1733518874586,
         "startDate": 1733518800000,
         "endDate": 1734672600000,
         "periods": [
@@ -535,7 +535,7 @@
         "eventId": "5141748",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure \nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -547,7 +547,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1733463155249,
+        "lastUpdated": 1733518872690,
         "startDate": 1733518800000,
         "endDate": 1734672600000,
         "periods": [
