@@ -15,7 +15,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761898838,
+        "lastUpdated": 1736805749498,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -91,7 +91,7 @@
         "eventId": "5199263",
         "description": null,
         "cause": "M25 Anti-Clockwise Jct 3 - Jct 2 \nLane closure and slip road closures anti-clockwise for technology works.\nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -103,7 +103,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736330760519,
+        "lastUpdated": 1736805793111,
         "startDate": 1736805600000,
         "endDate": 1736830800000,
         "periods": [
@@ -126,6 +126,68 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5206271",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42318,
+            "longitude": 0.23641297,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J3"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807320835,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5204706",
         "description": null,
         "cause": "A282 Southbound Jct 2 to Jct 3\nLane and link road closure for urgent loop repairs. \nDiversion via National Highways roads",
@@ -141,7 +203,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761888835,
+        "lastUpdated": 1736805751051,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -191,7 +253,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736330760554,
+        "lastUpdated": 1736805793634,
         "startDate": 1736805600000,
         "endDate": 1736830800000,
         "periods": [
@@ -324,10 +386,68 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5206277",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42664,
+            "longitude": 0.23716015,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807400581,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5204711",
         "description": null,
         "cause": "A282 Southbound Jct 2 to Jct 3\nLane and link road closure for urgent loop repairs. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -339,7 +459,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761921021,
+        "lastUpdated": 1736805747976,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -355,6 +475,60 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5206274",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.425575,
+            "longitude": 0.23889178,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807361356,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
@@ -393,6 +567,64 @@
             },
             {
                 "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5206275",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.425938,
+            "longitude": 0.23952821,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807392619,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
                 "status": "NORMAL"
             }
         ],
@@ -446,6 +678,60 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5206276",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.427044,
+            "longitude": 0.23775522,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807400538,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5205021",
         "description": null,
         "cause": "A2 Westbound Jct 2 Entry slip\nSlip road closure for urgent electrical works. \nDiversion to Bean interchange and return ",
@@ -488,6 +774,52 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5206273",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.426052,
+            "longitude": 0.24000031,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807353147,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5204710",
         "description": null,
         "cause": "A282 Southbound Jct 2 to Jct 3\nLane and link road closure for urgent loop repairs. \nDiversion via National Highways roads",
@@ -503,7 +835,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761920846,
+        "lastUpdated": 1736805748697,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -537,7 +869,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761888987,
+        "lastUpdated": 1736805750274,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -562,6 +894,122 @@
             {
                 "laneName": "Lane 3",
                 "status": "CLOSED"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5206272",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.432827,
+            "longitude": 0.239242,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807329544,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5206269",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.435505,
+            "longitude": 0.23914725,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807303646,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
             }
         ],
         "fullClosure": false,
@@ -583,7 +1031,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761930839,
+        "lastUpdated": 1736805747215,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -614,6 +1062,68 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5206270",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43564,
+            "longitude": 0.23914021,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807312395,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5204713",
         "description": null,
         "cause": "A282 Southbound Jct 2 to Jct 3\nLane and link road closure for urgent loop repairs. \nDiversion via National Highways roads",
@@ -629,7 +1139,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736761930889,
+        "lastUpdated": 1736805746497,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -679,7 +1189,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736765515954,
+        "lastUpdated": 1736805734228,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -867,7 +1377,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736579314789,
+        "lastUpdated": 1736805668278,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -1053,7 +1563,7 @@
         "eventId": "5191992",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1065,7 +1575,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736579214138,
+        "lastUpdated": 1736805667811,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -1273,7 +1783,7 @@
         "eventId": "5191994",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1285,7 +1795,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736579314963,
+        "lastUpdated": 1736805668843,
         "startDate": 1736805600000,
         "endDate": 1736832600000,
         "periods": [
@@ -1411,6 +1921,102 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5206267",
+        "description": null,
+        "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.459763,
+            "longitude": 0.25403938,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736807303507,
+        "startDate": 1737410400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737410400000,
+                "end": 1737437400000
+            },
+            {
+                "start": 1737496800000,
+                "end": 1737523800000
+            },
+            {
+                "start": 1737669600000,
+                "end": 1737696600000
+            },
+            {
+                "start": 1737759600000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5206179",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.465305,
+            "longitude": 0.25795692,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736805451271,
+        "startDate": 1736805340944,
+        "endDate": 1736830800000,
+        "periods": [
+            {
+                "start": 1736805340944,
+                "end": 1736830800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "UNKNOWN"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "UNKNOWN"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
