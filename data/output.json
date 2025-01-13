@@ -1376,6 +1376,52 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5205649",
+        "description": null,
+        "cause": "A2 both directions Darrenth to Ebbsfleet,\nLane closure for construction improvement",
+        "severity": "MEDIUM",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43069,
+            "longitude": 0.27490756,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736799436110,
+        "startDate": 1737403200000,
+        "endDate": 1737612000000,
+        "periods": [
+            {
+                "start": 1737403200000,
+                "end": 1737439200000
+            },
+            {
+                "start": 1737489600000,
+                "end": 1737525600000
+            },
+            {
+                "start": 1737576000000,
+                "end": 1737612000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5204002",
         "description": null,
         "cause": "A282 Northbound Jct 31 to Jct 30\nCarriageway closure for gully works. \nDiversion via Local Authorities roads",
