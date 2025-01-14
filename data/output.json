@@ -1,43 +1,5 @@
 [
     {
-        "eventId": "5199263",
-        "description": null,
-        "cause": "M25 Anti-Clockwise Jct 3 - Jct 2 Lane closure and slip road closures anti-clockwise for technology works.Diversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.423016,
-            "longitude": 0.23581792,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1736811790462,
-        "startDate": 1736805600000,
-        "endDate": 1736830800000,
-        "periods": [
-            {
-                "start": 1736805600000,
-                "end": 1736830800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5205024",
         "description": null,
         "cause": "A2 Westbound Jct 2 Entry slip\nSlip road closure for urgent electrical works. \nDiversion to Bean interchange and return ",
