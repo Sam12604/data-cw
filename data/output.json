@@ -792,6 +792,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5210223",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.45264,
+            "longitude": 0.24073233,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736976746273,
+        "startDate": 1736976645059,
+        "endDate": 1737005400000,
+        "periods": [
+            {
+                "start": 1736976645059,
+                "end": 1737005400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5198684",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -807,7 +845,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736975119640,
+        "lastUpdated": 1736976746268,
         "startDate": 1736974800000,
         "endDate": 1738389600000,
         "periods": [
@@ -973,7 +1011,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736975119219,
+        "lastUpdated": 1736976671873,
         "startDate": 1736974800000,
         "endDate": 1738389600000,
         "periods": [
@@ -1109,7 +1147,7 @@
         "eventId": "5210221",
         "description": null,
         "cause": "",
-        "severity": "LOWEST",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": true,
@@ -1121,7 +1159,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736976626223,
+        "lastUpdated": 1736976671910,
         "startDate": 1736976496664,
         "endDate": 1737005400000,
         "periods": [
