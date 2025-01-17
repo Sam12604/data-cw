@@ -411,44 +411,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5212608",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.426777,
-            "longitude": 0.24555719,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737065415760,
-        "startDate": 1737065353698,
-        "endDate": 1737090000000,
-        "periods": [
-            {
-                "start": 1737065353698,
-                "end": 1737090000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5210062",
         "description": null,
         "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
