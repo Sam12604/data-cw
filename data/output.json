@@ -735,9 +735,9 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5203610",
+        "eventId": "5203977",
         "description": null,
-        "cause": "A282 northbound Dartford Crossing West Tunnel.\nTunnel closure for maintenance works.\nDiversion via National Highways network.",
+        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
         "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
@@ -750,31 +750,31 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736633495857,
-        "startDate": 1737237600000,
-        "endDate": 1737262800000,
+        "lastUpdated": 1736719868044,
+        "startDate": 1737324000000,
+        "endDate": 1737349200000,
         "periods": [
             {
-                "start": 1737237600000,
-                "end": 1737262800000
+                "start": 1737324000000,
+                "end": 1737349200000
             }
         ],
         "laneClosures": [
             {
                 "laneName": "Lane 1",
-                "status": "CLOSED"
+                "status": "NORMAL"
             },
             {
                 "laneName": "Lane 2",
-                "status": "CLOSED"
+                "status": "NORMAL"
             },
             {
                 "laneName": "Lane 3",
-                "status": "NORMAL"
+                "status": "CLOSED"
             },
             {
                 "laneName": "Lane 4",
-                "status": "NORMAL"
+                "status": "CLOSED"
             }
         ],
         "fullClosure": false,
@@ -827,9 +827,9 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5203977",
+        "eventId": "5203610",
         "description": null,
-        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
+        "cause": "A282 northbound Dartford Crossing West Tunnel.\nTunnel closure for maintenance works.\nDiversion via National Highways network.",
         "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
@@ -842,31 +842,31 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736719868044,
-        "startDate": 1737324000000,
-        "endDate": 1737349200000,
+        "lastUpdated": 1736633495857,
+        "startDate": 1737237600000,
+        "endDate": 1737262800000,
         "periods": [
             {
-                "start": 1737324000000,
-                "end": 1737349200000
+                "start": 1737237600000,
+                "end": 1737262800000
             }
         ],
         "laneClosures": [
             {
                 "laneName": "Lane 1",
-                "status": "NORMAL"
+                "status": "CLOSED"
             },
             {
                 "laneName": "Lane 2",
-                "status": "NORMAL"
+                "status": "CLOSED"
             },
             {
                 "laneName": "Lane 3",
-                "status": "CLOSED"
+                "status": "NORMAL"
             },
             {
                 "laneName": "Lane 4",
-                "status": "CLOSED"
+                "status": "NORMAL"
             }
         ],
         "fullClosure": false,
@@ -1045,44 +1045,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5203978",
-        "description": null,
-        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1736719868081,
-        "startDate": 1737324000000,
-        "endDate": 1737349200000,
-        "periods": [
-            {
-                "start": 1737324000000,
-                "end": 1737349200000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5203595",
         "description": null,
         "cause": "A282 northbound Dartford Crossing,\nTunnel closure for contraflow works,\nDiversion via Highways England Network.",
@@ -1105,6 +1067,44 @@
             {
                 "start": 1737235800000,
                 "end": 1737262800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5203978",
+        "description": null,
+        "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J30|31"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736719868081,
+        "startDate": 1737324000000,
+        "endDate": 1737349200000,
+        "periods": [
+            {
+                "start": 1737324000000,
+                "end": 1737349200000
             }
         ],
         "laneClosures": [
@@ -1200,6 +1200,52 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5213434",
+        "description": null,
+        "cause": "A282 Southbound Jct QEII Bridge to Jct 1B\nLane closures for Cat 1 carriageway repairs",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.459763,
+            "longitude": 0.25403938,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737125020037,
+        "startDate": 1737583200000,
+        "endDate": 1737610200000,
+        "periods": [
+            {
+                "start": 1737583200000,
+                "end": 1737610200000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
@@ -1386,6 +1432,48 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5212361",
+        "description": null,
+        "cause": "A2 both directions Darenth to Ebbsfleet\nslip road and lane closure for street lighting works",
+        "severity": "MEDIUM",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43069,
+            "longitude": 0.27490756,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737058390728,
+        "startDate": 1737662400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737662400000,
+                "end": 1737698400000
+            },
+            {
+                "start": 1737748800000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5212365",
         "description": null,
         "cause": "A2 both directions Darenth to Ebbsfleet\nslip road and lane closure for street lighting works",
@@ -1433,48 +1521,6 @@
             }
         ],
         "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5212361",
-        "description": null,
-        "cause": "A2 both directions Darenth to Ebbsfleet\nslip road and lane closure for street lighting works",
-        "severity": "MEDIUM",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.43069,
-            "longitude": 0.27490756,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737058390728,
-        "startDate": 1737662400000,
-        "endDate": 1737784800000,
-        "periods": [
-            {
-                "start": 1737662400000,
-                "end": 1737698400000
-            },
-            {
-                "start": 1737748800000,
-                "end": 1737784800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
         "additionalInfo": false
     },
     {
