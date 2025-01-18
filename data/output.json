@@ -1738,48 +1738,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5211030",
-        "description": null,
-        "cause": "M25 Clockwise Jct 31 entry slip road\nLane closure for Technology works",
-        "severity": "LOWEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.486946,
-            "longitude": 0.26819012,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737151297249,
-        "startDate": 1737151200000,
-        "endDate": 1737176400000,
-        "periods": [
-            {
-                "start": 1737064800000,
-                "end": 1737090000000
-            },
-            {
-                "start": 1737151200000,
-                "end": 1737176400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5203611",
         "description": null,
         "cause": "M25 Clockwise Jct 31 Entry slip road \nSlip road closure for Tunnel works\nDiversion via National Highways roads",
