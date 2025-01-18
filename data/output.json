@@ -888,7 +888,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736633495857,
+        "lastUpdated": 1737237613998,
         "startDate": 1737237600000,
         "endDate": 1737262800000,
         "periods": [
@@ -1391,6 +1391,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5214852",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.464745,
+            "longitude": 0.25779518,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J30|31"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737240031492,
+        "startDate": 1737239899637,
+        "endDate": 1737262800000,
+        "periods": [
+            {
+                "start": 1737239899637,
+                "end": 1737262800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "UNKNOWN"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "UNKNOWN"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5210061",
         "description": null,
         "cause": "",
@@ -1684,7 +1722,7 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5203612",
+        "eventId": "5214845",
         "description": null,
         "cause": "A282 northbound and southbound Dartford Crossing.\nQEII Bridge closure for maintenance\nDiversion via East Tunnel (contraflow)\n",
         "severity": "MEDIUM",
@@ -1699,7 +1737,53 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736633497005,
+        "lastUpdated": 1737239568565,
+        "startDate": 1737842400000,
+        "endDate": 1737867600000,
+        "periods": [
+            {
+                "start": 1737842400000,
+                "end": 1737867600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5203612",
+        "description": null,
+        "cause": "A282 northbound and southbound Dartford Crossing.\nQEII Bridge closure for maintenance\nDiversion via East Tunnel (contraflow)\n",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.47706,
+            "longitude": 0.26674274,
+            "junctionUpstream": "J30|31",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737237614648,
         "startDate": 1737237600000,
         "endDate": 1737262800000,
         "periods": [
@@ -1822,7 +1906,7 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5203611",
+        "eventId": "5214846",
         "description": null,
         "cause": "M25 Clockwise Jct 31 Entry slip road \nSlip road closure for Tunnel works\nDiversion via National Highways roads",
         "severity": "LOW",
@@ -1837,7 +1921,45 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736633496457,
+        "lastUpdated": 1737239577155,
+        "startDate": 1737842400000,
+        "endDate": 1737867600000,
+        "periods": [
+            {
+                "start": 1737842400000,
+                "end": 1737867600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5203611",
+        "description": null,
+        "cause": "M25 Clockwise Jct 31 Entry slip road \nSlip road closure for Tunnel works\nDiversion via National Highways roads",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.486973,
+            "longitude": 0.2682013,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737237614283,
         "startDate": 1737237600000,
         "endDate": 1737262800000,
         "periods": [
