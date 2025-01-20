@@ -1157,52 +1157,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5213434",
-        "description": null,
-        "cause": "A282 Southbound Jct QEII Bridge to Jct 1B\nLane closures for Cat 1 carriageway repairs",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.459763,
-            "longitude": 0.25403938,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J1B|2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737125020037,
-        "startDate": 1737583200000,
-        "endDate": 1737610200000,
-        "periods": [
-            {
-                "start": 1737583200000,
-                "end": 1737610200000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5206267",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
@@ -1251,6 +1205,52 @@
             {
                 "laneName": "Lane 3",
                 "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5213434",
+        "description": null,
+        "cause": "A282 Southbound Jct QEII Bridge to Jct 1B\nLane closures for Cat 1 carriageway repairs",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.459763,
+            "longitude": 0.25403938,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737125020037,
+        "startDate": 1737583200000,
+        "endDate": 1737610200000,
+        "periods": [
+            {
+                "start": 1737583200000,
+                "end": 1737610200000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
             },
             {
                 "laneName": "Lane 4",
@@ -1340,6 +1340,48 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5212361",
+        "description": null,
+        "cause": "A2 both directions Darenth to Ebbsfleet\nslip road and lane closure for street lighting works",
+        "severity": "MEDIUM",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43069,
+            "longitude": 0.27490756,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737058390728,
+        "startDate": 1737662400000,
+        "endDate": 1737784800000,
+        "periods": [
+            {
+                "start": 1737662400000,
+                "end": 1737698400000
+            },
+            {
+                "start": 1737748800000,
+                "end": 1737784800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5205649",
         "description": null,
         "cause": "A2 both directions Darrenth to Ebbsfleet,\nLane closure for construction improvement",
@@ -1376,48 +1418,6 @@
             {
                 "laneName": "Hard Shoulder",
                 "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5212361",
-        "description": null,
-        "cause": "A2 both directions Darenth to Ebbsfleet\nslip road and lane closure for street lighting works",
-        "severity": "MEDIUM",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.43069,
-            "longitude": 0.27490756,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737058390728,
-        "startDate": 1737662400000,
-        "endDate": 1737784800000,
-        "periods": [
-            {
-                "start": 1737662400000,
-                "end": 1737698400000
-            },
-            {
-                "start": 1737748800000,
-                "end": 1737784800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "CLOSED"
             },
             {
                 "laneName": "Lane 1",
