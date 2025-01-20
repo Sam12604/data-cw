@@ -842,20 +842,12 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737180791852,
-        "startDate": 1737406800000,
+        "lastUpdated": 1737406898472,
+        "startDate": 1737410400000,
         "endDate": 1738389600000,
         "periods": [
             {
-                "start": 1737064800000,
-                "end": 1737091800000
-            },
-            {
-                "start": 1737147600000,
-                "end": 1737180000000
-            },
-            {
-                "start": 1737406800000,
+                "start": 1737410400000,
                 "end": 1737437400000
             },
             {
@@ -932,20 +924,12 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737180792801,
-        "startDate": 1737406800000,
+        "lastUpdated": 1737406899309,
+        "startDate": 1737410400000,
         "endDate": 1738389600000,
         "periods": [
             {
-                "start": 1737064800000,
-                "end": 1737091800000
-            },
-            {
-                "start": 1737147600000,
-                "end": 1737180000000
-            },
-            {
-                "start": 1737406800000,
+                "start": 1737410400000,
                 "end": 1737437400000
             },
             {
@@ -1090,20 +1074,12 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737180792619,
-        "startDate": 1737406800000,
+        "lastUpdated": 1737406899238,
+        "startDate": 1737410400000,
         "endDate": 1738389600000,
         "periods": [
             {
-                "start": 1737064800000,
-                "end": 1737091800000
-            },
-            {
-                "start": 1737147600000,
-                "end": 1737180000000
-            },
-            {
-                "start": 1737406800000,
+                "start": 1737410400000,
                 "end": 1737437400000
             },
             {
