@@ -1697,7 +1697,7 @@
         "eventId": "5205649",
         "description": null,
         "cause": "A2 both directions Darrenth to Ebbsfleet,\nLane closure for construction improvement",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1709,7 +1709,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737440239119,
+        "lastUpdated": 1737490270562,
         "startDate": 1737489600000,
         "endDate": 1737612000000,
         "periods": [
