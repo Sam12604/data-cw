@@ -15,8 +15,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410511226,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437505636,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -77,8 +77,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410507290,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437499953,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -135,8 +135,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410509182,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437503775,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -259,8 +259,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410508539,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437502387,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -396,8 +396,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410507967,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437500602,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -790,8 +790,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410510559,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437504630,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -848,8 +848,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410512563,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437507874,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -992,8 +992,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410511920,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437505875,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -1146,8 +1146,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410464597,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437446333,
+        "startDate": 1737493200000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -1216,7 +1216,7 @@
         "eventId": "5198684",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1228,8 +1228,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410561832,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437448534,
+        "startDate": 1737493200000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -1402,7 +1402,7 @@
         "eventId": "5198683",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1414,8 +1414,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410561422,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437447397,
+        "startDate": 1737493200000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -1572,8 +1572,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737410513374,
-        "startDate": 1737410400000,
+        "lastUpdated": 1737437508247,
+        "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
             {
