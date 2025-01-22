@@ -554,7 +554,7 @@
         "eventId": "5220036",
         "description": null,
         "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -566,7 +566,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737540733499,
+        "lastUpdated": 1737576129224,
         "startDate": 1737576000000,
         "endDate": 1737612000000,
         "periods": [
@@ -1213,6 +1213,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5221135",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.45267,
+            "longitude": 0.24057195,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737578326327,
+        "startDate": 1737578281703,
+        "endDate": 1737608400000,
+        "periods": [
+            {
+                "start": 1737578281703,
+                "end": 1737608400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5198684",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -1511,6 +1549,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5221133",
+        "description": null,
+        "cause": "",
+        "severity": "LOWEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.46099,
+            "longitude": 0.25383896,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737578269139,
+        "startDate": 1737578190470,
+        "endDate": 1737608400000,
+        "periods": [
+            {
+                "start": 1737578190470,
+                "end": 1737608400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "UNKNOWN"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "UNKNOWN"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5206267",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
@@ -1615,6 +1691,35 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5210061",
+        "description": null,
+        "cause": "",
+        "severity": "LOW",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42887,
+            "longitude": 0.26798546,
+            "junctionUpstream": "B255",
+            "junctionDownstream": "M25 J1B|J2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737576640537,
+        "startDate": 1737576000000,
+        "endDate": 1737612000000,
+        "periods": [
+            {
+                "start": 1737576000000,
+                "end": 1737612000000
+            }
+        ],
+        "laneClosures": [],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5220037",
         "description": null,
         "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
@@ -1630,7 +1735,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737540733667,
+        "lastUpdated": 1737576128469,
         "startDate": 1737576000000,
         "endDate": 1737612000000,
         "periods": [
@@ -1710,7 +1815,7 @@
         "eventId": "5205649",
         "description": null,
         "cause": "A2 both directions Darrenth to Ebbsfleet,\nLane closure for construction improvement",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1722,7 +1827,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737532460368,
+        "lastUpdated": 1737576458153,
         "startDate": 1737576000000,
         "endDate": 1737612000000,
         "periods": [
