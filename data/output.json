@@ -3,7 +3,7 @@
         "eventId": "5206271",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -15,7 +15,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496962661,
+        "lastUpdated": 1737523850905,
         "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
@@ -62,40 +62,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5219300",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42398,
-            "longitude": 0.23731153,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737498769399,
-        "startDate": 1737498694742,
-        "endDate": 1737522000000,
-        "periods": [
-            {
-                "start": 1737498694742,
-                "end": 1737522000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5206277",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
@@ -111,8 +77,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496966234,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737523940713,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -169,8 +135,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496964391,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737524066116,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -293,8 +259,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496964979,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737524057487,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -430,8 +396,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496965627,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737523940808,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -484,8 +450,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496963784,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737524066201,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -824,8 +790,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496963231,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737524180807,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -882,8 +848,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496961604,
-        "startDate": 1737496800000,
+        "lastUpdated": 1737524181012,
+        "startDate": 1737669600000,
         "endDate": 1737784800000,
         "periods": [
             {
@@ -1014,7 +980,7 @@
         "eventId": "5206270",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1026,7 +992,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496962102,
+        "lastUpdated": 1737523852694,
         "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
@@ -1168,7 +1134,7 @@
         "eventId": "5198682",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1180,7 +1146,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737493378671,
+        "lastUpdated": 1737523925601,
         "startDate": 1737493200000,
         "endDate": 1738389600000,
         "periods": [
@@ -1250,7 +1216,7 @@
         "eventId": "5198684",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1262,8 +1228,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737493467526,
-        "startDate": 1737493200000,
+        "lastUpdated": 1737524132055,
+        "startDate": 1737579600000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -1474,7 +1440,7 @@
         "eventId": "5198683",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1486,8 +1452,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737493379144,
-        "startDate": 1737493200000,
+        "lastUpdated": 1737524131875,
+        "startDate": 1737579600000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -1548,7 +1514,7 @@
         "eventId": "5206267",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1560,7 +1526,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737496961033,
+        "lastUpdated": 1737523850766,
         "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
