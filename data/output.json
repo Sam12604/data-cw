@@ -551,7 +551,7 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5210062",
+        "eventId": "5220036",
         "description": null,
         "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
         "severity": "LOW",
@@ -566,7 +566,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736972834153,
+        "lastUpdated": 1737540733499,
         "startDate": 1737576000000,
         "endDate": 1737612000000,
         "periods": [
@@ -1615,36 +1615,7 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5210061",
-        "description": null,
-        "cause": "",
-        "severity": "LOW",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.42887,
-            "longitude": 0.26798546,
-            "junctionUpstream": "B255",
-            "junctionDownstream": "M25 J1B|J2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1736972834019,
-        "startDate": 1737576000000,
-        "endDate": 1737612000000,
-        "periods": [
-            {
-                "start": 1737576000000,
-                "end": 1737612000000
-            }
-        ],
-        "laneClosures": [],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5210063",
+        "eventId": "5220037",
         "description": null,
         "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
         "severity": "LOW",
@@ -1659,7 +1630,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1736972852046,
+        "lastUpdated": 1737540733667,
         "startDate": 1737576000000,
         "endDate": 1737612000000,
         "periods": [
@@ -1690,6 +1661,35 @@
                 "status": "NORMAL"
             }
         ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5210061",
+        "description": null,
+        "cause": "",
+        "severity": "LOW",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42887,
+            "longitude": 0.26798546,
+            "junctionUpstream": "B255",
+            "junctionDownstream": "M25 J1B|J2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1736972834019,
+        "startDate": 1737576000000,
+        "endDate": 1737612000000,
+        "periods": [
+            {
+                "start": 1737576000000,
+                "end": 1737612000000
+            }
+        ],
+        "laneClosures": [],
         "fullClosure": false,
         "additionalInfo": false
     },
