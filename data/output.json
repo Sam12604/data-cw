@@ -1560,7 +1560,7 @@
         "eventId": "5206267",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -1572,7 +1572,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737523850766,
+        "lastUpdated": 1737529387383,
         "startDate": 1737496800000,
         "endDate": 1737784800000,
         "periods": [
