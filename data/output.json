@@ -551,52 +551,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5220036",
-        "description": null,
-        "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
-        "severity": "LOW",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.42737,
-            "longitude": 0.25234377,
-            "junctionUpstream": "B255",
-            "junctionDownstream": "M25 J1B|J2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737596512001,
-        "startDate": 1737576000000,
-        "endDate": 1737612000000,
-        "periods": [
-            {
-                "start": 1737576000000,
-                "end": 1737612000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5212366",
         "description": null,
         "cause": "A2 both directions Darenth to Ebbsfleet\nslip road and lane closure for street lighting works",
@@ -1635,85 +1589,6 @@
             {
                 "laneName": "Lane 3",
                 "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5210061",
-        "description": null,
-        "cause": "",
-        "severity": "LOW",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.42887,
-            "longitude": 0.26798546,
-            "junctionUpstream": "B255",
-            "junctionDownstream": "M25 J1B|J2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737576640537,
-        "startDate": 1737576000000,
-        "endDate": 1737612000000,
-        "periods": [
-            {
-                "start": 1737576000000,
-                "end": 1737612000000
-            }
-        ],
-        "laneClosures": [],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5220037",
-        "description": null,
-        "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
-        "severity": "LOW",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.42887,
-            "longitude": 0.26798546,
-            "junctionUpstream": "B255",
-            "junctionDownstream": "M25 J1B|J2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737576128469,
-        "startDate": 1737576000000,
-        "endDate": 1737612000000,
-        "periods": [
-            {
-                "start": 1737576000000,
-                "end": 1737612000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
             },
             {
                 "laneName": "Lane 4",
