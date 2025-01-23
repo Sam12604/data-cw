@@ -554,7 +554,7 @@
         "eventId": "5220036",
         "description": null,
         "cause": "A2 both directions Darenth Interchange to Bean\nLane closure for barrier renewals",
-        "severity": "MEDIUM",
+        "severity": "LOW",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -566,7 +566,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737576129224,
+        "lastUpdated": 1737596512001,
         "startDate": 1737576000000,
         "endDate": 1737612000000,
         "periods": [
@@ -1756,52 +1756,6 @@
             {
                 "laneName": "Hard Shoulder",
                 "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5205649",
-        "description": null,
-        "cause": "A2 both directions Darrenth to Ebbsfleet,\nLane closure for construction improvement",
-        "severity": "HIGHEST",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.43069,
-            "longitude": 0.27490756,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737576458153,
-        "startDate": 1737576000000,
-        "endDate": 1737612000000,
-        "periods": [
-            {
-                "start": 1737403200000,
-                "end": 1737439200000
-            },
-            {
-                "start": 1737489600000,
-                "end": 1737525600000
-            },
-            {
-                "start": 1737576000000,
-                "end": 1737612000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "NORMAL"
             },
             {
                 "laneName": "Lane 1",
