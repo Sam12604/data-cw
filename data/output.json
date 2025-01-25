@@ -319,7 +319,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737236473604,
+        "lastUpdated": 1737840659604,
         "startDate": 1737840600000,
         "endDate": 1737867600000,
         "periods": [
@@ -597,7 +597,7 @@
         "eventId": "5214824",
         "description": null,
         "cause": "A282 northbound Dartford Crossing,\nTunnel closure for contraflow works,\nDiversion via Highways England Network.",
-        "severity": "LOW",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -609,7 +609,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1737236473558,
+        "lastUpdated": 1737840659385,
         "startDate": 1737840600000,
         "endDate": 1737867600000,
         "periods": [
@@ -725,6 +725,52 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5226291",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.47599,
+            "longitude": 0.26654118,
+            "junctionUpstream": "J30|31",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737841973474,
+        "startDate": 1737841770417,
+        "endDate": 1737867600000,
+        "periods": [
+            {
+                "start": 1737841770417,
+                "end": 1737867600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
@@ -853,6 +899,44 @@
             }
         ],
         "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5226290",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.486298,
+            "longitude": 0.26793647,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737841927687,
+        "startDate": 1737841888458,
+        "endDate": 1737867600000,
+        "periods": [
+            {
+                "start": 1737841888458,
+                "end": 1737867600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
         "additionalInfo": false
     },
     {
