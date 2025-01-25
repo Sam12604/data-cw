@@ -120,40 +120,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5225590",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42528,
-            "longitude": 0.23859794,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737756196763,
-        "startDate": 1737756141979,
-        "endDate": 1737781200000,
-        "periods": [
-            {
-                "start": 1737756141979,
-                "end": 1737781200000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5206274",
         "description": null,
         "cause": "A282 Southbound Jct 1a to Jct 2\nLane and carriageway closure for resurfacing. \nDiversion via National Highways roads",
@@ -387,52 +353,6 @@
             }
         ],
         "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5206273",
-        "description": null,
-        "cause": "A282 Southbound Jct 1a to Jct 2Lane and carriageway closure for resurfacing. Diversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.426052,
-            "longitude": 0.24000031,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737756782287,
-        "startDate": 1737756768221,
-        "endDate": 1737781200000,
-        "periods": [
-            {
-                "start": 1737410400000,
-                "end": 1737435600000
-            },
-            {
-                "start": 1737496800000,
-                "end": 1737523800000
-            },
-            {
-                "start": 1737669600000,
-                "end": 1737696600000
-            },
-            {
-                "start": 1737759600000,
-                "end": 1737781200000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
         "additionalInfo": false
     },
     {
