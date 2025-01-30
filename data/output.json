@@ -41,7 +41,7 @@
         "eventId": "5217250",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -53,8 +53,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738188051523,
-        "startDate": 1738188000000,
+        "lastUpdated": 1738215583722,
+        "startDate": 1738274400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -161,8 +161,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738188049891,
-        "startDate": 1738188000000,
+        "lastUpdated": 1738215593218,
+        "startDate": 1738274400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -265,7 +265,7 @@
         "eventId": "5217248",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -277,8 +277,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738188048820,
-        "startDate": 1738188000000,
+        "lastUpdated": 1738215593319,
+        "startDate": 1738274400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -343,7 +343,7 @@
         "eventId": "5217247",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -355,8 +355,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738188047733,
-        "startDate": 1738188000000,
+        "lastUpdated": 1738215692673,
+        "startDate": 1738274400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -480,52 +480,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5226294",
-        "description": null,
-        "cause": "A282 northbound Dartford Crossing West Tunnel.\nTunnel closure for maintenance works.\nDiversion via National Highways network.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.450573,
-            "longitude": 0.23843083,
-            "junctionUpstream": "J1B|2",
-            "junctionDownstream": "J1A"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1737843070709,
-        "startDate": 1738447200000,
-        "endDate": 1738472400000,
-        "periods": [
-            {
-                "start": 1738447200000,
-                "end": 1738472400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5226812",
         "description": null,
         "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
@@ -572,6 +526,52 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5226294",
+        "description": null,
+        "cause": "A282 northbound Dartford Crossing West Tunnel.\nTunnel closure for maintenance works.\nDiversion via National Highways network.",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.450573,
+            "longitude": 0.23843083,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1737843070709,
+        "startDate": 1738447200000,
+        "endDate": 1738472400000,
+        "periods": [
+            {
+                "start": 1738447200000,
+                "end": 1738472400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5198682",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -587,8 +587,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738184420526,
-        "startDate": 1738184400000,
+        "lastUpdated": 1738215054623,
+        "startDate": 1738270800000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -641,7 +641,7 @@
         "eventId": "5198684",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -653,8 +653,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738184532012,
-        "startDate": 1738184400000,
+        "lastUpdated": 1738215172940,
+        "startDate": 1738270800000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -753,8 +753,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738188053024,
-        "startDate": 1738188000000,
+        "lastUpdated": 1738215573941,
+        "startDate": 1738274400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -853,7 +853,7 @@
         "eventId": "5198683",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -865,8 +865,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738184460154,
-        "startDate": 1738184400000,
+        "lastUpdated": 1738215172746,
+        "startDate": 1738270800000,
         "endDate": 1738389600000,
         "periods": [
             {
@@ -923,8 +923,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738193373402,
-        "startDate": 1738188000000,
+        "lastUpdated": 1738215450834,
+        "startDate": 1738274400000,
         "endDate": 1738992600000,
         "periods": [
             {
