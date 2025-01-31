@@ -1,5 +1,55 @@
 [
     {
+        "eventId": "5236778",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.42331,
+            "longitude": 0.23654167,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J3"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1738364744390,
+        "startDate": 1738364697384,
+        "endDate": 1738387800000,
+        "periods": [
+            {
+                "start": 1738364697384,
+                "end": 1738387800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5226304",
         "description": null,
         "cause": "M25 Clockwise Jct 2 Jct 3\nCarriageway Closure for joint replacement works.\nDiversion via local authority roads",
@@ -41,7 +91,7 @@
         "eventId": "5217250",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -53,7 +103,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738301667504,
+        "lastUpdated": 1738364435423,
         "startDate": 1738364400000,
         "endDate": 1738992600000,
         "periods": [
@@ -149,7 +199,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738301762620,
+        "lastUpdated": 1738364434636,
         "startDate": 1738364400000,
         "endDate": 1738992600000,
         "periods": [
@@ -241,7 +291,7 @@
         "eventId": "5217248",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -253,7 +303,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738301812678,
+        "lastUpdated": 1738364434006,
         "startDate": 1738364400000,
         "endDate": 1738992600000,
         "periods": [
@@ -307,7 +357,7 @@
         "eventId": "5217247",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -319,7 +369,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738301812896,
+        "lastUpdated": 1738364433347,
         "startDate": 1738364400000,
         "endDate": 1738992600000,
         "periods": [
@@ -524,168 +574,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5198682",
-        "description": null,
-        "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45096,
-            "longitude": 0.23903441,
-            "junctionUpstream": "J1B|2",
-            "junctionDownstream": "J1A"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738357208539,
-        "startDate": 1738357200000,
-        "endDate": 1738389600000,
-        "periods": [
-            {
-                "start": 1737756000000,
-                "end": 1737784800000
-            },
-            {
-                "start": 1738011600000,
-                "end": 1738042200000
-            },
-            {
-                "start": 1738098000000,
-                "end": 1738128600000
-            },
-            {
-                "start": 1738184400000,
-                "end": 1738215000000
-            },
-            {
-                "start": 1738270800000,
-                "end": 1738301400000
-            },
-            {
-                "start": 1738357200000,
-                "end": 1738389600000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5236737",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.452827,
-            "longitude": 0.24145667,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738359214009,
-        "startDate": 1738359115880,
-        "endDate": 1738387800000,
-        "periods": [
-            {
-                "start": 1738359115880,
-                "end": 1738387800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5198684",
-        "description": null,
-        "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.453384,
-            "longitude": 0.24048093,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738357209883,
-        "startDate": 1738357200000,
-        "endDate": 1738389600000,
-        "periods": [
-            {
-                "start": 1737756000000,
-                "end": 1737784800000
-            },
-            {
-                "start": 1738011600000,
-                "end": 1738042200000
-            },
-            {
-                "start": 1738098000000,
-                "end": 1738128600000
-            },
-            {
-                "start": 1738184400000,
-                "end": 1738215000000
-            },
-            {
-                "start": 1738270800000,
-                "end": 1738301400000
-            },
-            {
-                "start": 1738357200000,
-                "end": 1738389600000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5226305",
         "description": null,
         "cause": "M25 Clockwise Jct 2 Jct 3\nCarriageway Closure for joint replacement works.\nDiversion via local authority roads",
@@ -743,7 +631,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738301667422,
+        "lastUpdated": 1738364436151,
         "startDate": 1738364400000,
         "endDate": 1738992600000,
         "periods": [
@@ -828,102 +716,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5198683",
-        "description": null,
-        "cause": "A282 Northbound  Jct 1a to West Tunnel West TunnelCarriageway and slip road closure for tunnel works. Diversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738357209181,
-        "startDate": 1738357200000,
-        "endDate": 1738389600000,
-        "periods": [
-            {
-                "start": 1737756000000,
-                "end": 1737784800000
-            },
-            {
-                "start": 1738011600000,
-                "end": 1738042200000
-            },
-            {
-                "start": 1738098000000,
-                "end": 1738128600000
-            },
-            {
-                "start": 1738184400000,
-                "end": 1738215000000
-            },
-            {
-                "start": 1738270800000,
-                "end": 1738301400000
-            },
-            {
-                "start": 1738357200000,
-                "end": 1738389600000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "UNKNOWN"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "UNKNOWN"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5236734",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.465927,
-            "longitude": 0.25851312,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738358997813,
-        "startDate": 1738358828940,
-        "endDate": 1738387800000,
-        "periods": [
-            {
-                "start": 1738358828940,
-                "end": 1738387800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "UNKNOWN"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "UNKNOWN"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5217252",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
@@ -939,7 +731,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738301651532,
+        "lastUpdated": 1738364437343,
         "startDate": 1738364400000,
         "endDate": 1738992600000,
         "periods": [
