@@ -1,55 +1,5 @@
 [
     {
-        "eventId": "5236778",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42331,
-            "longitude": 0.23654167,
-            "junctionUpstream": "J1B|2",
-            "junctionDownstream": "J3"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738364744390,
-        "startDate": 1738364697384,
-        "endDate": 1738387800000,
-        "periods": [
-            {
-                "start": 1738364697384,
-                "end": 1738387800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5226304",
         "description": null,
         "cause": "M25 Clockwise Jct 2 Jct 3\nCarriageway Closure for joint replacement works.\nDiversion via local authority roads",
@@ -91,7 +41,7 @@
         "eventId": "5217250",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -103,8 +53,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738364435423,
-        "startDate": 1738364400000,
+        "lastUpdated": 1738387985050,
+        "startDate": 1738620000000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -199,8 +149,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738364434636,
-        "startDate": 1738364400000,
+        "lastUpdated": 1738388030088,
+        "startDate": 1738620000000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -291,7 +241,7 @@
         "eventId": "5217248",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -303,8 +253,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738364434006,
-        "startDate": 1738364400000,
+        "lastUpdated": 1738388030017,
+        "startDate": 1738620000000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -357,7 +307,7 @@
         "eventId": "5217247",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -369,8 +319,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738364433347,
-        "startDate": 1738364400000,
+        "lastUpdated": 1738387913876,
+        "startDate": 1738620000000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -631,8 +581,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738364436151,
-        "startDate": 1738364400000,
+        "lastUpdated": 1738387984874,
+        "startDate": 1738620000000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -731,8 +681,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738364437343,
-        "startDate": 1738364400000,
+        "lastUpdated": 1738387968596,
+        "startDate": 1738620000000,
         "endDate": 1738992600000,
         "periods": [
             {
