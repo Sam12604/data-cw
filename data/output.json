@@ -1,5 +1,55 @@
 [
     {
+        "eventId": "5242758",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.422466,
+            "longitude": 0.23564014,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J3"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1738537933038,
+        "startDate": 1738537868240,
+        "endDate": 1738560600000,
+        "periods": [
+            {
+                "start": 1738537868240,
+                "end": 1738560600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5226304",
         "description": null,
         "cause": "M25 Clockwise Jct 2 Jct 3\nCarriageway Closure for joint replacement works.\nDiversion via local authority roads",
