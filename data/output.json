@@ -3,7 +3,7 @@
         "eventId": "5217250",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -15,8 +15,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738620009966,
-        "startDate": 1738620000000,
+        "lastUpdated": 1738647201514,
+        "startDate": 1738706400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -65,8 +65,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738620009415,
-        "startDate": 1738620000000,
+        "lastUpdated": 1738647193151,
+        "startDate": 1738706400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -157,7 +157,7 @@
         "eventId": "5217248",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -169,8 +169,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738620008895,
-        "startDate": 1738620000000,
+        "lastUpdated": 1738647176768,
+        "startDate": 1738706400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -215,7 +215,7 @@
         "eventId": "5217247",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -227,8 +227,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738620008362,
-        "startDate": 1738620000000,
+        "lastUpdated": 1738647065597,
+        "startDate": 1738706400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -385,8 +385,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738620010595,
-        "startDate": 1738620000000,
+        "lastUpdated": 1738647201640,
+        "startDate": 1738706400000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -564,8 +564,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738620011368,
-        "startDate": 1738620000000,
+        "lastUpdated": 1738647330532,
+        "startDate": 1738706400000,
         "endDate": 1738992600000,
         "periods": [
             {
