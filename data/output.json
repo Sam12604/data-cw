@@ -3,7 +3,7 @@
         "eventId": "5217250",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -15,8 +15,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738792833925,
-        "startDate": 1738792800000,
+        "lastUpdated": 1738820029786,
+        "startDate": 1738879200000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -65,8 +65,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738792833135,
-        "startDate": 1738792800000,
+        "lastUpdated": 1738820021204,
+        "startDate": 1738879200000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -157,7 +157,7 @@
         "eventId": "5217248",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -169,8 +169,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738792832443,
-        "startDate": 1738792800000,
+        "lastUpdated": 1738820004619,
+        "startDate": 1738879200000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -215,7 +215,7 @@
         "eventId": "5217247",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -227,8 +227,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738792831756,
-        "startDate": 1738792800000,
+        "lastUpdated": 1738819902362,
+        "startDate": 1738879200000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -385,8 +385,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738792834695,
-        "startDate": 1738792800000,
+        "lastUpdated": 1738820054576,
+        "startDate": 1738879200000,
         "endDate": 1738992600000,
         "periods": [
             {
@@ -552,7 +552,7 @@
         "eventId": "5217252",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
-        "severity": "MEDIUM",
+        "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -564,8 +564,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738785531782,
-        "startDate": 1738706400000,
+        "lastUpdated": 1738820054703,
+        "startDate": 1738879200000,
         "endDate": 1738992600000,
         "periods": [
             {
