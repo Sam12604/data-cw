@@ -1,73 +1,5 @@
 [
     {
-        "eventId": "5251244",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42516,
-            "longitude": 0.23846872,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738970727133,
-        "startDate": 1738970688184,
-        "endDate": 1738992600000,
-        "periods": [
-            {
-                "start": 1738970688184,
-                "end": 1738992600000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5248944",
-        "description": null,
-        "cause": "M25 Clockwise Jct 2 Entry Slip Road\nSlip road closure for loop repairs\nDiversion via national highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.425552,
-            "longitude": 0.23886907,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738969293066,
-        "startDate": 1738969200000,
-        "endDate": 1738994400000,
-        "periods": [
-            {
-                "start": 1738969200000,
-                "end": 1738994400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5217250",
         "description": null,
         "cause": "M25 Clockwise Jct 2 to Jct 3\nCarriageway closure, link road and lane closures for Joint replacement works\nDiversion via Local Authority roads",
@@ -94,40 +26,6 @@
             {
                 "start": 1738969200000,
                 "end": 1738992600000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5248943",
-        "description": null,
-        "cause": "M25 Clockwise Jct 2 Entry Slip Road\nSlip road closure for loop repairs\nDiversion via national highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.426098,
-            "longitude": 0.24008974,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738969293543,
-        "startDate": 1738969200000,
-        "endDate": 1738994400000,
-        "periods": [
-            {
-                "start": 1738969200000,
-                "end": 1738994400000
             }
         ],
         "laneClosures": [
@@ -171,48 +69,6 @@
         "laneClosures": [
             {
                 "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5251245",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "A2",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42628,
-            "longitude": 0.24093848,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1738970784937,
-        "startDate": 1738970746801,
-        "endDate": 1738992600000,
-        "periods": [
-            {
-                "start": 1738970746801,
-                "end": 1738992600000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
                 "status": "CLOSED"
             }
         ],
