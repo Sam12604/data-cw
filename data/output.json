@@ -822,14 +822,10 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1738794406966,
-        "startDate": 1739397600000,
+        "lastUpdated": 1739375585902,
+        "startDate": 1739484000000,
         "endDate": 1739599200000,
         "periods": [
-            {
-                "start": 1739397600000,
-                "end": 1739424600000
-            },
             {
                 "start": 1739484000000,
                 "end": 1739511000000
