@@ -861,56 +861,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5244396",
-        "description": null,
-        "cause": "M25 Jct 31 - A282 Jct 1A Southbound\nLane closure clockwise for painting works. ",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.47918,
-            "longitude": 0.26666236,
-            "junctionUpstream": "J30|31",
-            "junctionDownstream": "J1A"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739311436163,
-        "startDate": 1739311200000,
-        "endDate": 1739338200000,
-        "periods": [
-            {
-                "start": 1739224800000,
-                "end": 1739251800000
-            },
-            {
-                "start": 1739311200000,
-                "end": 1739338200000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5251240",
         "description": null,
         "cause": "M25 Anti-Clockwise Jct 30 exit slip road\nLane and slip road closure for urgent carriageway repairs, \nDiversion via National Highways and Local Authorities roads",
