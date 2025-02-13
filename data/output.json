@@ -1,9 +1,111 @@
 [
     {
+        "eventId": "5259269",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.423973,
+            "longitude": 0.23730677,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739486888805,
+        "startDate": 1739486813310,
+        "endDate": 1739511000000,
+        "periods": [
+            {
+                "start": 1739486813310,
+                "end": 1739511000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5259229",
+        "description": null,
+        "cause": "A2 Westbound Jct 2 Darenth Interchange Entry Slip Road\nSlip closure for structures inspections\nDiversion via local authority roads",
+        "severity": "MEDIUM",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.424347,
+            "longitude": 0.23676036,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739484714581,
+        "startDate": 1740088800000,
+        "endDate": 1740115800000,
+        "periods": [
+            {
+                "start": 1740088800000,
+                "end": 1740115800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5259230",
+        "description": null,
+        "cause": "A2 Westbound Jct 2 Darenth Interchange Entry Slip Road\nSlip closure for structures inspections\nDiversion via local authority roads",
+        "severity": "HIGHEST",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.4255,
+            "longitude": 0.23662515,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739484714619,
+        "startDate": 1740088800000,
+        "endDate": 1740115800000,
+        "periods": [
+            {
+                "start": 1740088800000,
+                "end": 1740115800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5258504",
         "description": null,
         "cause": "M25 Clockwise Jct 2 entry slip road \nCarriageway closure for urgent Loop repairs. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -15,13 +117,47 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739458880932,
+        "lastUpdated": 1739484066413,
         "startDate": 1739484000000,
         "endDate": 1739509200000,
         "periods": [
             {
                 "start": 1739484000000,
                 "end": 1739509200000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5259271",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.425564,
+            "longitude": 0.23923212,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739487064418,
+        "startDate": 1739487016371,
+        "endDate": 1739511000000,
+        "periods": [
+            {
+                "start": 1739487016371,
+                "end": 1739511000000
             }
         ],
         "laneClosures": [
@@ -103,7 +239,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739458880885,
+        "lastUpdated": 1739484066662,
         "startDate": 1739484000000,
         "endDate": 1739509200000,
         "periods": [
@@ -193,6 +329,52 @@
             }
         ],
         "laneClosures": [],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5259228",
+        "description": null,
+        "cause": "A2 Westbound Jct 2 Darenth Interchange Entry Slip Road\nSlip closure for structures inspections\nDiversion via local authority roads",
+        "severity": "LOW",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42706,
+            "longitude": 0.24519247,
+            "junctionUpstream": "B255",
+            "junctionDownstream": "M25 J1B|J2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739484704455,
+        "startDate": 1740088800000,
+        "endDate": 1740115800000,
+        "periods": [
+            {
+                "start": 1740088800000,
+                "end": 1740115800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
         "fullClosure": false,
         "additionalInfo": false
     },
@@ -845,7 +1027,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739375585902,
+        "lastUpdated": 1739484163871,
         "startDate": 1739484000000,
         "endDate": 1739599200000,
         "periods": [
