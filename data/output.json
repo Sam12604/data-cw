@@ -1,5 +1,39 @@
 [
     {
+        "eventId": "5258504",
+        "description": null,
+        "cause": "M25 Clockwise Jct 2 entry slip road \nCarriageway closure for urgent Loop repairs. \nDiversion via National Highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.425575,
+            "longitude": 0.23889178,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739458880932,
+        "startDate": 1739484000000,
+        "endDate": 1739509200000,
+        "periods": [
+            {
+                "start": 1739484000000,
+                "end": 1739509200000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5254091",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
@@ -51,6 +85,40 @@
             }
         ],
         "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5258503",
+        "description": null,
+        "cause": "M25 Clockwise Jct 2 entry slip road \nCarriageway closure for urgent Loop repairs. \nDiversion via National Highways roads",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.426098,
+            "longitude": 0.24008974,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739458880885,
+        "startDate": 1739484000000,
+        "endDate": 1739509200000,
+        "periods": [
+            {
+                "start": 1739484000000,
+                "end": 1739509200000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
         "additionalInfo": false
     },
     {
