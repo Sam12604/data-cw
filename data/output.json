@@ -137,7 +137,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739541696635,
+        "lastUpdated": 1739656831006,
         "startDate": 1739656800000,
         "endDate": 1739683800000,
         "periods": [
@@ -529,7 +529,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739541744077,
+        "lastUpdated": 1739656833227,
         "startDate": 1739656800000,
         "endDate": 1739683800000,
         "periods": [
@@ -579,7 +579,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739541744135,
+        "lastUpdated": 1739656834532,
         "startDate": 1739656800000,
         "endDate": 1739683800000,
         "periods": [
@@ -621,7 +621,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739541707462,
+        "lastUpdated": 1739656832082,
         "startDate": 1739656800000,
         "endDate": 1739683800000,
         "periods": [
@@ -659,7 +659,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739052685301,
+        "lastUpdated": 1739656829785,
         "startDate": 1739656800000,
         "endDate": 1739682000000,
         "periods": [
@@ -795,6 +795,44 @@
             }
         ],
         "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5265062",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.452644,
+            "longitude": 0.24100594,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739657180373,
+        "startDate": 1739657134324,
+        "endDate": 1739682000000,
+        "periods": [
+            {
+                "start": 1739657134324,
+                "end": 1739682000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
         "additionalInfo": false
     },
     {
