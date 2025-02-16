@@ -122,44 +122,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5259843",
-        "description": null,
-        "cause": "A282 Southbound and Northbound Jct 1B round about and all approaches\nLane for urgent routine works.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.42719,
-            "longitude": 0.23781997,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739656831006,
-        "startDate": 1739656800000,
-        "endDate": 1739683800000,
-        "periods": [
-            {
-                "start": 1739656800000,
-                "end": 1739683800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5254092",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
@@ -514,136 +476,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5259845",
-        "description": null,
-        "cause": "A282 Southbound and Northbound Jct 1B round about and all approaches\nLane for urgent routine works.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.44521,
-            "longitude": 0.23631728,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J1B|2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739656833227,
-        "startDate": 1739656800000,
-        "endDate": 1739683800000,
-        "periods": [
-            {
-                "start": 1739656800000,
-                "end": 1739683800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Hard Shoulder",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 4",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5259846",
-        "description": null,
-        "cause": "A282 Southbound and Northbound Jct 1B round about and all approaches\nLane for urgent routine works.",
-        "severity": "HIGH",
-        "roadName": "A296",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.437683,
-            "longitude": 0.23965655,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739656834532,
-        "startDate": 1739656800000,
-        "endDate": 1739683800000,
-        "periods": [
-            {
-                "start": 1739656800000,
-                "end": 1739683800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5259844",
-        "description": null,
-        "cause": "A282 Southbound and Northbound Jct 1B round about and all approaches\nLane for urgent routine works.",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.440926,
-            "longitude": 0.23894736,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739656832082,
-        "startDate": 1739656800000,
-        "endDate": 1739683800000,
-        "periods": [
-            {
-                "start": 1739656800000,
-                "end": 1739683800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5251842",
         "description": null,
         "cause": "A282 northbound Dartford Crossing West Tunnel.\nTunnel closure for maintenance works.\nDiversion via National Highways network.",
@@ -979,6 +811,44 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5265114",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.463093,
+            "longitude": 0.2559779,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739675109439,
+        "startDate": 1739674951079,
+        "endDate": 1739682000000,
+        "periods": [
+            {
+                "start": 1739674951079,
+                "end": 1739682000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "UNKNOWN"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "UNKNOWN"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
