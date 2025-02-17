@@ -1,5 +1,47 @@
 [
     {
+        "eventId": "5267650",
+        "description": null,
+        "cause": "M25 Anti-Clockwise Jct 2 - A282 Northbound Jct 1B\nCarriageway closure for safety barrier repairs\nDiversion via national highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42382,
+            "longitude": 0.23667364,
+            "junctionUpstream": "J3",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739830895936,
+        "startDate": 1740434400000,
+        "endDate": 1740461400000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740461400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5259229",
         "description": null,
         "cause": "A2 Westbound Jct 2 Darenth Interchange Entry Slip Road\nSlip closure for structures inspections\nDiversion via local authority roads",
@@ -68,6 +110,40 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5267677",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.424473,
+            "longitude": 0.23779139,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739831451667,
+        "startDate": 1739831391760,
+        "endDate": 1739858400000,
+        "periods": [
+            {
+                "start": 1739831391760,
+                "end": 1739858400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5254091",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
@@ -83,7 +159,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226833996,
+        "lastUpdated": 1739829784960,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -122,10 +198,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5267651",
+        "description": null,
+        "cause": "M25 Anti-Clockwise Jct 2 - A282 Northbound Jct 1B\nCarriageway closure for safety barrier repairs\nDiversion via national highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.427307,
+            "longitude": 0.23835975,
+            "junctionUpstream": "J3",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739830895992,
+        "startDate": 1740434400000,
+        "endDate": 1740461400000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740461400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5254092",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -137,7 +247,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226834036,
+        "lastUpdated": 1739829784555,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -258,7 +368,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226833823,
+        "lastUpdated": 1739829785390,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -366,7 +476,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226775790,
+        "lastUpdated": 1739829788458,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -395,7 +505,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226785476,
+        "lastUpdated": 1739829787990,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -445,7 +555,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226823838,
+        "lastUpdated": 1739829787289,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -522,6 +632,64 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5267696",
+        "description": null,
+        "cause": "A282 Northbound East Tunnel\nTunnel closure for tunnel works\nDiversion via national highways roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45096,
+            "longitude": 0.23903441,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739831908988,
+        "startDate": 1740434400000,
+        "endDate": 1740718800000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740459600000
+            },
+            {
+                "start": 1740520800000,
+                "end": 1740546000000
+            },
+            {
+                "start": 1740607200000,
+                "end": 1740632400000
+            },
+            {
+                "start": 1740693600000,
+                "end": 1740718800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5253907",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -581,6 +749,44 @@
             }
         ],
         "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5267679",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.45331,
+            "longitude": 0.24037908,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739831693839,
+        "startDate": 1739831618295,
+        "endDate": 1739856600000,
+        "periods": [
+            {
+                "start": 1739831618295,
+                "end": 1739856600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
         "additionalInfo": false
     },
     {
@@ -676,6 +882,56 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5267695",
+        "description": null,
+        "cause": "A282 Northbound East Tunnel\nTunnel closure for tunnel works\nDiversion via national highways roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739831908946,
+        "startDate": 1740434400000,
+        "endDate": 1740718800000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740459600000
+            },
+            {
+                "start": 1740520800000,
+                "end": 1740546000000
+            },
+            {
+                "start": 1740607200000,
+                "end": 1740632400000
+            },
+            {
+                "start": 1740693600000,
+                "end": 1740718800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5253906",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -730,6 +986,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5267700",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.466908,
+            "longitude": 0.25938416,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739832103961,
+        "startDate": 1739831970560,
+        "endDate": 1739856600000,
+        "periods": [
+            {
+                "start": 1739831970560,
+                "end": 1739856600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5254089",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
@@ -745,7 +1039,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226824174,
+        "lastUpdated": 1739829785780,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
@@ -823,6 +1117,68 @@
             },
             {
                 "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5267619",
+        "description": null,
+        "cause": "M25 Clockwise Jct 31 to A282 Jct 1A\nLane Closure for joint works",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.479115,
+            "longitude": 0.26666555,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739830475816,
+        "startDate": 1740434400000,
+        "endDate": 1740808800000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740459600000
+            },
+            {
+                "start": 1740520800000,
+                "end": 1740546000000
+            },
+            {
+                "start": 1740607200000,
+                "end": 1740632400000
+            },
+            {
+                "start": 1740693600000,
+                "end": 1740718800000
+            },
+            {
+                "start": 1740783600000,
+                "end": 1740808800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
                 "status": "NORMAL"
             }
         ],
@@ -967,7 +1323,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226476484,
+        "lastUpdated": 1739829732673,
         "startDate": 1739829600000,
         "endDate": 1740115800000,
         "periods": [
