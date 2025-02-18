@@ -1346,6 +1346,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5269200",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.487843,
+            "longitude": 0.26640603,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1739920023869,
+        "startDate": 1739919966794,
+        "endDate": 1739943000000,
+        "periods": [
+            {
+                "start": 1739919966794,
+                "end": 1739943000000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5264424",
         "description": null,
         "cause": "M25 Clockwise and Anti-Clockwise Jct 30 and all approaches\nLane closure for inspection works",
