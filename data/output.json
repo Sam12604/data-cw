@@ -110,40 +110,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5267677",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.424473,
-            "longitude": 0.23779139,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739831451667,
-        "startDate": 1739831391760,
-        "endDate": 1739858400000,
-        "periods": [
-            {
-                "start": 1739831391760,
-                "end": 1739858400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5254091",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
