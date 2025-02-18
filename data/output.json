@@ -247,7 +247,7 @@
         "eventId": "5254088",
         "description": null,
         "cause": "",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -259,7 +259,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739226824013,
+        "lastUpdated": 1739898028719,
         "startDate": 1739829600000,
         "endDate": 1740031200000,
         "periods": [
