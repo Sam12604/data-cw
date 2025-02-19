@@ -125,7 +125,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739950103214,
+        "lastUpdated": 1740002578570,
         "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
@@ -200,11 +200,11 @@
     {
         "eventId": "5254092",
         "description": null,
-        "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
-        "severity": "MEDIUM",
+        "cause": "A2 eastbound Darenth to BeanA282 southbound A296 to Darenthslip road and lane closure for electrical works ",
+        "severity": "HIGHEST",
         "roadName": "A2",
         "isCompleted": false,
-        "isConfirmed": false,
+        "isConfirmed": true,
         "location": {
             "latitude": 51.42718,
             "longitude": 0.23987673,
@@ -213,7 +213,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739950094525,
+        "lastUpdated": 1740003452508,
         "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
@@ -227,7 +227,7 @@
             },
             {
                 "start": 1740002400000,
-                "end": 1740031200000
+                "end": 1740027600000
             }
         ],
         "laneClosures": [
@@ -334,7 +334,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739950112215,
+        "lastUpdated": 1740002577669,
         "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
@@ -471,7 +471,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739950233931,
+        "lastUpdated": 1740002575343,
         "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
@@ -521,7 +521,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739950224329,
+        "lastUpdated": 1740002576186,
         "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
@@ -943,7 +943,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739950112345,
+        "lastUpdated": 1740002576887,
         "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
@@ -1143,7 +1143,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739943402092,
+        "lastUpdated": 1740002565835,
         "startDate": 1740002400000,
         "endDate": 1740115800000,
         "periods": [
