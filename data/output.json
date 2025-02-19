@@ -718,44 +718,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5269041",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.452873,
-            "longitude": 0.24025351,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739912681464,
-        "startDate": 1739912649068,
-        "endDate": 1739943000000,
-        "periods": [
-            {
-                "start": 1739912649068,
-                "end": 1739943000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5253908",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -949,44 +911,6 @@
             }
         ],
         "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5269040",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.466534,
-            "longitude": 0.25904793,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739912707056,
-        "startDate": 1739912507505,
-        "endDate": 1739944800000,
-        "periods": [
-            {
-                "start": 1739912507505,
-                "end": 1739944800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "UNKNOWN"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "UNKNOWN"
-            }
-        ],
-        "fullClosure": false,
         "additionalInfo": false
     },
     {
