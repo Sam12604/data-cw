@@ -125,8 +125,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739916196097,
-        "startDate": 1739916000000,
+        "lastUpdated": 1739950103214,
+        "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
             {
@@ -201,7 +201,7 @@
         "eventId": "5254092",
         "description": null,
         "cause": "A2 eastbound Darenth to Bean\nA282 southbound A296 to Darenth\nslip road and lane closure for electrical works ",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -213,8 +213,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739916197236,
-        "startDate": 1739916000000,
+        "lastUpdated": 1739950094525,
+        "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
             {
@@ -334,8 +334,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739916194900,
-        "startDate": 1739916000000,
+        "lastUpdated": 1739950112215,
+        "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
             {
@@ -471,8 +471,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739916191298,
-        "startDate": 1739916000000,
+        "lastUpdated": 1739950233931,
+        "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
             {
@@ -521,8 +521,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739916192585,
-        "startDate": 1739916000000,
+        "lastUpdated": 1739950224329,
+        "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
             {
@@ -975,8 +975,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739916193726,
-        "startDate": 1739916000000,
+        "lastUpdated": 1739950112345,
+        "startDate": 1740002400000,
         "endDate": 1740031200000,
         "periods": [
             {
