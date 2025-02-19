@@ -42,40 +42,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5269180",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42393,
-            "longitude": 0.23726425,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739916953022,
-        "startDate": 1739916890484,
-        "endDate": 1739944800000,
-        "periods": [
-            {
-                "start": 1739916890484,
-                "end": 1739944800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5259229",
         "description": null,
         "cause": "A2 Westbound Jct 2 Darenth Interchange Entry Slip Road\nSlip closure for structures inspections\nDiversion via local authority roads",
@@ -132,74 +98,6 @@
             {
                 "start": 1740088800000,
                 "end": 1740115800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5269155",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42456,
-            "longitude": 0.23788035,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739916689957,
-        "startDate": 1739916637459,
-        "endDate": 1739944800000,
-        "periods": [
-            {
-                "start": 1739916637459,
-                "end": 1739944800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
-        "eventId": "5269182",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42543,
-            "longitude": 0.23906642,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1739917024048,
-        "startDate": 1739916964895,
-        "endDate": 1739944800000,
-        "periods": [
-            {
-                "start": 1739916964895,
-                "end": 1739944800000
             }
         ],
         "laneClosures": [
