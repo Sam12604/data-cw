@@ -240,6 +240,136 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5271656",
+        "description": null,
+        "cause": "M25 Anti-Clockwise Jct 2 to Jct A282\nLane closure for technology works. ",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43011,
+            "longitude": 0.23914145,
+            "junctionUpstream": "J3",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1740052479752,
+        "startDate": 1740434400000,
+        "endDate": 1740459600000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740459600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5271654",
+        "description": null,
+        "cause": "M25 Anti-Clockwise Jct 2 to Jct A282\nLane closure for technology works. ",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43236,
+            "longitude": 0.23900785,
+            "junctionUpstream": "J1B|2",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1740052479690,
+        "startDate": 1740434400000,
+        "endDate": 1740459600000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740459600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5271653",
+        "description": null,
+        "cause": "M25 Anti-Clockwise Jct 2 to Jct A282\nLane closure for technology works. ",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.438282,
+            "longitude": 0.23816425,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1740052459820,
+        "startDate": 1740434400000,
+        "endDate": 1740459600000,
+        "periods": [
+            {
+                "start": 1740434400000,
+                "end": 1740459600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5265572",
         "description": null,
         "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
