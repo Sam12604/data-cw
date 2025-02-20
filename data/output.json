@@ -205,7 +205,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739477661732,
+        "lastUpdated": 1740082460693,
         "startDate": 1740081600000,
         "endDate": 1740117600000,
         "periods": [
@@ -528,6 +528,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5273051",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.452694,
+            "longitude": 0.24051808,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1740084258826,
+        "startDate": 1740084219125,
+        "endDate": 1740115800000,
+        "periods": [
+            {
+                "start": 1740084219125,
+                "end": 1740115800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5253908",
         "description": null,
         "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -716,6 +754,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5273065",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.466232,
+            "longitude": 0.25878206,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1740084393163,
+        "startDate": 1740084295227,
+        "endDate": 1740115800000,
+        "periods": [
+            {
+                "start": 1740084295227,
+                "end": 1740115800000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "UNKNOWN"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "UNKNOWN"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5269009",
         "description": null,
         "cause": "A2 eastbound Darenth  to Ebbsfleet \nslip road and lane closure for sweeping of carriageway",
@@ -765,7 +841,7 @@
         "eventId": "5259031",
         "description": null,
         "cause": "A2 eastbound Bean to Ebbsfleet,\nSlip road and lane closure for maintenance works. ",
-        "severity": "LOW",
+        "severity": "MEDIUM",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -777,7 +853,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739477661692,
+        "lastUpdated": 1740082462947,
         "startDate": 1740081600000,
         "endDate": 1740117600000,
         "periods": [
