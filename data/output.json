@@ -45,7 +45,7 @@
         "eventId": "5259229",
         "description": null,
         "cause": "A2 Westbound Jct 2 Darenth Interchange Entry Slip Road\nSlip closure for structures inspections\nDiversion via local authority roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "A2",
         "isCompleted": false,
         "isConfirmed": false,
@@ -57,7 +57,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739484714581,
+        "lastUpdated": 1740089024526,
         "startDate": 1740088800000,
         "endDate": 1740115800000,
         "periods": [
@@ -91,7 +91,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739484714619,
+        "lastUpdated": 1740089023220,
         "startDate": 1740088800000,
         "endDate": 1740115800000,
         "periods": [
@@ -159,7 +159,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739484704455,
+        "lastUpdated": 1740089025986,
         "startDate": 1740088800000,
         "endDate": 1740115800000,
         "periods": [
@@ -999,7 +999,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740030108820,
+        "lastUpdated": 1740088949786,
         "startDate": 1740088800000,
         "endDate": 1740115800000,
         "periods": [
