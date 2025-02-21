@@ -418,60 +418,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5253906",
-        "description": null,
-        "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.45367,
-            "longitude": 0.24303003,
-            "junctionUpstream": "",
-            "junctionDownstream": ""
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1740171747193,
-        "startDate": 1740171600000,
-        "endDate": 1740204000000,
-        "periods": [
-            {
-                "start": 1739836740000,
-                "end": 1739856600000
-            },
-            {
-                "start": 1739912400000,
-                "end": 1739943000000
-            },
-            {
-                "start": 1739998800000,
-                "end": 1740029400000
-            },
-            {
-                "start": 1740085200000,
-                "end": 1740115800000
-            },
-            {
-                "start": 1740171600000,
-                "end": 1740204000000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": true,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5265571",
         "description": null,
         "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
@@ -536,6 +482,60 @@
             {
                 "start": 1740697200000,
                 "end": 1740720600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5253906",
+        "description": null,
+        "cause": "A282 Northbound  Jct 1a to West Tunnel West Tunnel\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.45367,
+            "longitude": 0.24303003,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1740171747193,
+        "startDate": 1740171600000,
+        "endDate": 1740204000000,
+        "periods": [
+            {
+                "start": 1739836740000,
+                "end": 1739856600000
+            },
+            {
+                "start": 1739912400000,
+                "end": 1739943000000
+            },
+            {
+                "start": 1739998800000,
+                "end": 1740029400000
+            },
+            {
+                "start": 1740085200000,
+                "end": 1740115800000
+            },
+            {
+                "start": 1740171600000,
+                "end": 1740204000000
             }
         ],
         "laneClosures": [
@@ -663,7 +663,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740138879013,
+        "lastUpdated": 1740178899772,
         "startDate": 1740178800000,
         "endDate": 1740202200000,
         "periods": [
@@ -709,12 +709,12 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1739574763012,
-        "startDate": 1740178800000,
+        "lastUpdated": 1740179123409,
+        "startDate": 1740189600000,
         "endDate": 1740200400000,
         "periods": [
             {
-                "start": 1740178800000,
+                "start": 1740189600000,
                 "end": 1740200400000
             }
         ],
