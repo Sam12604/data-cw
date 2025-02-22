@@ -663,12 +663,12 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740178899772,
-        "startDate": 1740178800000,
+        "lastUpdated": 1740183325880,
+        "startDate": 1740186000000,
         "endDate": 1740202200000,
         "periods": [
             {
-                "start": 1740178800000,
+                "start": 1740186000000,
                 "end": 1740202200000
             }
         ],
