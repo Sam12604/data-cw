@@ -749,7 +749,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740490510378,
+        "lastUpdated": 1740520906650,
         "startDate": 1740520800000,
         "endDate": 1740547800000,
         "periods": [
@@ -891,7 +891,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740489564990,
+        "lastUpdated": 1740520907232,
         "startDate": 1740520800000,
         "endDate": 1740547800000,
         "periods": [
