@@ -756,44 +756,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5284043",
-        "description": null,
-        "cause": "",
-        "severity": "HIGHEST",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.46608,
-            "longitude": 0.25899225,
-            "junctionUpstream": "J1A",
-            "junctionDownstream": "J30|31"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1740610927616,
-        "startDate": 1740610836876,
-        "endDate": 1740632400000,
-        "periods": [
-            {
-                "start": 1740610836876,
-                "end": 1740632400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "UNKNOWN"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "UNKNOWN"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5267619",
         "description": null,
         "cause": "M25 Clockwise Jct 31 to A282 Jct 1A\nLane Closure for joint works",
