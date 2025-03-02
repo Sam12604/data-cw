@@ -119,7 +119,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740952073450,
+        "lastUpdated": 1740952809241,
         "startDate": 1740952800000,
         "endDate": 1740978000000,
         "periods": [
@@ -383,7 +383,7 @@
         "eventId": "5278217",
         "description": null,
         "cause": "A282 Northbound Dartford Crossing East Tunnel\nTunnel closure for maintenance works,\nDiversion via National Highways network.",
-        "severity": "LOW",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -395,7 +395,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1740952063994,
+        "lastUpdated": 1740952809599,
         "startDate": 1740952800000,
         "endDate": 1740978000000,
         "periods": [
