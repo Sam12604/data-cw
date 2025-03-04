@@ -75,7 +75,7 @@
         "eventId": "5280018",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -87,8 +87,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741039245831,
-        "startDate": 1741039200000,
+        "lastUpdated": 1741066802134,
+        "startDate": 1741125600000,
         "endDate": 1741325400000,
         "periods": [
             {
@@ -129,7 +129,7 @@
         "eventId": "5280017",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -141,8 +141,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741039244879,
-        "startDate": 1741039200000,
+        "lastUpdated": 1741066753110,
+        "startDate": 1741125600000,
         "endDate": 1741325400000,
         "periods": [
             {
@@ -179,7 +179,7 @@
         "eventId": "5279918",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -191,8 +191,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741035751613,
-        "startDate": 1741035600000,
+        "lastUpdated": 1741066487569,
+        "startDate": 1741122000000,
         "endDate": 1742623200000,
         "periods": [
             {
@@ -269,7 +269,7 @@
         "eventId": "5280021",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -281,8 +281,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741039248228,
-        "startDate": 1741039200000,
+        "lastUpdated": 1741066867807,
+        "startDate": 1741125600000,
         "endDate": 1741325400000,
         "periods": [
             {
@@ -319,7 +319,7 @@
         "eventId": "5279919",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "HIGHEST",
+        "severity": "LOW",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -331,8 +331,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741035752447,
-        "startDate": 1741035600000,
+        "lastUpdated": 1741066487745,
+        "startDate": 1741122000000,
         "endDate": 1742623200000,
         "periods": [
             {
@@ -409,7 +409,7 @@
         "eventId": "5280020",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "HIGHEST",
+        "severity": "MEDIUM",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -421,8 +421,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741039247236,
-        "startDate": 1741039200000,
+        "lastUpdated": 1741066802230,
+        "startDate": 1741125600000,
         "endDate": 1741325400000,
         "periods": [
             {
@@ -581,8 +581,8 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741039249192,
-        "startDate": 1741039200000,
+        "lastUpdated": 1741066867724,
+        "startDate": 1741125600000,
         "endDate": 1741325400000,
         "periods": [
             {
