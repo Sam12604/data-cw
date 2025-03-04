@@ -72,6 +72,52 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5294787",
+        "description": null,
+        "cause": "A2 eastbound Darenth  to Ebbsfleet \nslip road and lane closure for sweeping of carriageway",
+        "severity": "LOW",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.426373,
+            "longitude": 0.23845705,
+            "junctionUpstream": "A2018",
+            "junctionDownstream": "M25 J1B|J2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741119254574,
+        "startDate": 1741723200000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741723200000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5293898",
         "description": null,
         "cause": "A2 both directions Hawley to M25 Jct 2,\nLane closure for barrier repairs.",
@@ -112,6 +158,56 @@
             {
                 "laneName": "Lane 3",
                 "status": "CLOSED"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5294786",
+        "description": null,
+        "cause": "A2 eastbound Darenth  to Ebbsfleet \nslip road and lane closure for sweeping of carriageway",
+        "severity": "LOW",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.42766,
+            "longitude": 0.25742128,
+            "junctionUpstream": "M25 J1B|J2",
+            "junctionDownstream": "B255"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741119254521,
+        "startDate": 1741723200000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741723200000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "NORMAL"
             }
         ],
         "fullClosure": false,
@@ -475,6 +571,52 @@
             }
         ],
         "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5294785",
+        "description": null,
+        "cause": "A2 eastbound Darenth  to Ebbsfleet \nslip road and lane closure for sweeping of carriageway",
+        "severity": "LOW",
+        "roadName": "A2",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.43069,
+            "longitude": 0.27490756,
+            "junctionUpstream": "M25 J1B|J2",
+            "junctionDownstream": "B255"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741119234730,
+        "startDate": 1741723200000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741723200000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
         "additionalInfo": false
     },
     {
