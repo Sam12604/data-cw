@@ -38,48 +38,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5295028",
-        "description": null,
-        "cause": "M25 Anti-Clockwise Jct 3 - Jct 2\nLane closure for structures inspections",
-        "severity": "LOW",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": false,
-        "location": {
-            "latitude": 51.423016,
-            "longitude": 0.23581792,
-            "junctionUpstream": "J3",
-            "junctionDownstream": "J1B|2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1741126365923,
-        "startDate": 1741730400000,
-        "endDate": 1741757400000,
-        "periods": [
-            {
-                "start": 1741730400000,
-                "end": 1741757400000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "CLOSED"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5292952",
         "description": null,
         "cause": "M25 Anti-Clockwise Jct 3- Jct 2\nLane and slip road closure for structures inspections\nDiversion via national highways roads",
