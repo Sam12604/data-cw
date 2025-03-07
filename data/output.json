@@ -221,7 +221,7 @@
         "eventId": "5280018",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -233,7 +233,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239520904,
+        "lastUpdated": 1741298468189,
         "startDate": 1741298400000,
         "endDate": 1741325400000,
         "periods": [
@@ -347,7 +347,7 @@
         "eventId": "5280017",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -359,7 +359,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239477769,
+        "lastUpdated": 1741298466978,
         "startDate": 1741298400000,
         "endDate": 1741325400000,
         "periods": [
@@ -386,10 +386,86 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5299122",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.45152,
+            "longitude": 0.24107423,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741301403595,
+        "startDate": 1741301333243,
+        "endDate": 1741325400000,
+        "periods": [
+            {
+                "start": 1741301333243,
+                "end": 1741325400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5298999",
+        "description": null,
+        "cause": "",
+        "severity": "HIGHEST",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": true,
+        "location": {
+            "latitude": 51.45264,
+            "longitude": 0.24072516,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741294780529,
+        "startDate": 1741294729140,
+        "endDate": 1741325400000,
+        "periods": [
+            {
+                "start": 1741294729140,
+                "end": 1741325400000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5279918",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -401,7 +477,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239193265,
+        "lastUpdated": 1741294863429,
         "startDate": 1741294800000,
         "endDate": 1742623200000,
         "periods": [
@@ -479,7 +555,7 @@
         "eventId": "5280021",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -491,7 +567,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239654269,
+        "lastUpdated": 1741298471326,
         "startDate": 1741298400000,
         "endDate": 1741325400000,
         "periods": [
@@ -521,7 +597,7 @@
         "eventId": "5279919",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
-        "severity": "LOW",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -533,7 +609,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239318519,
+        "lastUpdated": 1741294865722,
         "startDate": 1741294800000,
         "endDate": 1742623200000,
         "periods": [
@@ -611,7 +687,7 @@
         "eventId": "5280020",
         "description": null,
         "cause": "A282 Clockwise Jct 1a to Jct 2 \nCarriageway closure for resurfacing works. \nDiversion via Local Authorities roads",
-        "severity": "MEDIUM",
+        "severity": "HIGHEST",
         "roadName": "M25",
         "isCompleted": false,
         "isConfirmed": false,
@@ -623,7 +699,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239521139,
+        "lastUpdated": 1741298470213,
         "startDate": 1741298400000,
         "endDate": 1741325400000,
         "periods": [
@@ -821,7 +897,7 @@
         },
         "eventType": "ROADWORKS",
         "isCurrent": false,
-        "lastUpdated": 1741239654423,
+        "lastUpdated": 1741298472469,
         "startDate": 1741298400000,
         "endDate": 1741325400000,
         "periods": [
