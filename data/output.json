@@ -168,6 +168,48 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5306032",
+        "description": null,
+        "cause": "A282 Southbound Jct 1A to Jct 2\nCarriageway closure for CAT 1 carriageway repairs\nDiversion via local authority roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.429863,
+            "longitude": 0.23934609,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741619560237,
+        "startDate": 1741730400000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741730400000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Hard Shoulder",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5297968",
         "description": null,
         "cause": "A282 Northbound Jct 1B Roundabout and slip road\nLane closure for drainage works. ",
@@ -245,6 +287,44 @@
             }
         ],
         "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5306031",
+        "description": null,
+        "cause": "A282 Southbound Jct 1A to Jct 2\nCarriageway closure for CAT 1 carriageway repairs\nDiversion via local authority roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.441566,
+            "longitude": 0.23863794,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741619501896,
+        "startDate": 1741730400000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741730400000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
         "additionalInfo": false
     },
     {
@@ -430,6 +510,44 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5306034",
+        "description": null,
+        "cause": "A282 Southbound Jct 1A to Jct 2\nCarriageway closure for CAT 1 carriageway repairs\nDiversion via local authority roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.451874,
+            "longitude": 0.24380562,
+            "junctionUpstream": "",
+            "junctionDownstream": ""
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741619569611,
+        "startDate": 1741730400000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741730400000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5279919",
         "description": null,
         "cause": "A282 Northbound West Tunnel closure\nCarriageway and slip road closure for tunnel works. \nDiversion via National Highways roads",
@@ -558,6 +676,52 @@
         "additionalInfo": false
     },
     {
+        "eventId": "5306033",
+        "description": null,
+        "cause": "A282 Southbound Jct 1A to Jct 2\nCarriageway closure for CAT 1 carriageway repairs\nDiversion via local authority roads",
+        "severity": "MEDIUM",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.454895,
+            "longitude": 0.24607685,
+            "junctionUpstream": "J1A",
+            "junctionDownstream": "J1B|2"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741619569429,
+        "startDate": 1741730400000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741730400000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
+            }
+        ],
+        "fullClosure": true,
+        "additionalInfo": false
+    },
+    {
         "eventId": "5294785",
         "description": null,
         "cause": "A2 eastbound Darenth  to Ebbsfleet \nslip road and lane closure for sweeping of carriageway",
@@ -660,6 +824,52 @@
             {
                 "laneName": "Lane 4",
                 "status": "NORMAL"
+            }
+        ],
+        "fullClosure": false,
+        "additionalInfo": false
+    },
+    {
+        "eventId": "5306035",
+        "description": null,
+        "cause": "A282 Southbound Jct 1A to Jct 2\nCarriageway closure for CAT 1 carriageway repairs\nDiversion via local authority roads",
+        "severity": "LOW",
+        "roadName": "M25",
+        "isCompleted": false,
+        "isConfirmed": false,
+        "location": {
+            "latitude": 51.47924,
+            "longitude": 0.26665917,
+            "junctionUpstream": "J30|31",
+            "junctionDownstream": "J1A"
+        },
+        "eventType": "ROADWORKS",
+        "isCurrent": false,
+        "lastUpdated": 1741619569660,
+        "startDate": 1741730400000,
+        "endDate": 1741755600000,
+        "periods": [
+            {
+                "start": 1741730400000,
+                "end": 1741755600000
+            }
+        ],
+        "laneClosures": [
+            {
+                "laneName": "Lane 1",
+                "status": "NORMAL"
+            },
+            {
+                "laneName": "Lane 2",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 3",
+                "status": "CLOSED"
+            },
+            {
+                "laneName": "Lane 4",
+                "status": "CLOSED"
             }
         ],
         "fullClosure": false,
