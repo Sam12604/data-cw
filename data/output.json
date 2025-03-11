@@ -100,48 +100,6 @@
         "additionalInfo": false
     },
     {
-        "eventId": "5307122",
-        "description": null,
-        "cause": "",
-        "severity": "HIGH",
-        "roadName": "M25",
-        "isCompleted": false,
-        "isConfirmed": true,
-        "location": {
-            "latitude": 51.42671,
-            "longitude": 0.23850225,
-            "junctionUpstream": "J3",
-            "junctionDownstream": "J1B|2"
-        },
-        "eventType": "ROADWORKS",
-        "isCurrent": false,
-        "lastUpdated": 1741679213794,
-        "startDate": 1741664228328,
-        "endDate": 1741690800000,
-        "periods": [
-            {
-                "start": 1741664228328,
-                "end": 1741690800000
-            }
-        ],
-        "laneClosures": [
-            {
-                "laneName": "Lane 1",
-                "status": "CLOSED"
-            },
-            {
-                "laneName": "Lane 2",
-                "status": "NORMAL"
-            },
-            {
-                "laneName": "Lane 3",
-                "status": "NORMAL"
-            }
-        ],
-        "fullClosure": false,
-        "additionalInfo": false
-    },
-    {
         "eventId": "5294786",
         "description": null,
         "cause": "A2 eastbound Darenth  to Ebbsfleet \nslip road and lane closure for sweeping of carriageway",
